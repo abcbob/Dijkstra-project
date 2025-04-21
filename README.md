@@ -20,3 +20,7 @@ Some features that you can use:
 # Demo:
 ![image](https://github.com/user-attachments/assets/b03a3c2a-4ff1-4300-9c34-fd587dcaa949)
 
+Another one with different theme:
+
+![image](https://github.com/user-attachments/assets/1dd95eb0-31fb-461e-bf52-6310719e8504)
+
